@@ -1,0 +1,8 @@
+body
+{
+    background-color: cyan;}
+    p
+    {
+        font-size: 40;
+    }
+    p:hover{color: darkgreen;}
